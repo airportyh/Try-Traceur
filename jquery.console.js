@@ -289,7 +289,7 @@
                     }
                 }, 100);
             }
-            return false;
+            //return false;
         });
         
 
